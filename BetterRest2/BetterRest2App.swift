@@ -2,8 +2,6 @@
 //  BetterRest2App.swift
 //  BetterRest2
 //
-//  Created by RachelleLee on 7/21/21.
-//
 
 import SwiftUI
 
